@@ -1,6 +1,10 @@
 ---
-title: "My First Post"
-date: 2019-04-04T01:53:04+02:00
----
+title: My First Post
+date: 2019-04-03 23:53:04 +0000
 
-First post created!
+---
+Content edited using Forestry.
+
+![](/uploads/Forestry Logotype.svg)
+
+Bye!
